@@ -1,7 +1,7 @@
 # Tag
 These are projects about tag recommendation in Python2.
 
-##Flipboard
+## Flipboard
 Flipboard is to get the related words of a word by flipboard api and get the co-tag file used for T2Ttable project.
 
 Folder "hashtag" is the hashtag of our APP, it's cut into six files by category.
