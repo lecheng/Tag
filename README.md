@@ -34,3 +34,7 @@ t2ttable.py is to generate tag-tag table from co-tag. There is a parameter "isHa
 sample.json is a sample of input file.
 
 data.json is the core data to generate our final tag-tag table, which can be extended in the same format.
+### usage
+```
+t2ttable.py -f co-tag-data.json <-i true>
+```
